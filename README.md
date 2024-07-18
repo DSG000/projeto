@@ -80,9 +80,9 @@ cajado do vazio
  ## ***~~titulo secreto~~***
 
  ***☯︎monarca das sombras☯︎***
- Um ser enigmático que reina sobre um reino de escuridão, comandando as sombras dos guerreiros caídos. Dizem que sua voz, um sussurro que ecoa além dos véus do tempo, é capaz de persuadir até mesmo deuses.
+ **Um ser enigmático que reina sobre um reino de escuridão, comandando as sombras dos guerreiros caídos. Dizem que sua voz, um sussurro que ecoa além dos véus do tempo, é capaz de persuadir até mesmo deuses.**
 
- **você reencarnou como o novo monarca, que todos se curvem ao senhor.**
+ ***você reencarnou como o novo monarca, que todos se curvem ao senhor.***
    
    
    
@@ -100,6 +100,18 @@ adaga simples
 adaga dupla
 
 ### ***ITEM ESPECIAL***
+
+**garras de grifo**
+:As Garras de Grifo são adagas excepcionalmente afiadas, forjadas com metal místico e adornadas com detalhes sutis. Suas garras são extremamente afiadas, refletindo a letalidade e a precisão dos grifos lendários.
+
+ ## ***ITEM LENDARIO⭐***
+
+ **Katana rios de sangue🩸🩸**
+ 
+A "Katana Rios de Sangue" é uma lâmina lendária de aço negro curvada, cujos entalhes parecem pulsar como rios de sangue vivo. A empunhadura, envolta em couro escuro, concede poder e controle absoluto a seu portador. Esta katana é temida não apenas por sua história de batalhas épicas, mas também pela aura de poder e mortalidade que envolve aqueles que a empunham com destreza incomparável.
+
+
+
 
 
  
