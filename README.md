@@ -84,14 +84,6 @@ cajado do vazio
 
  ***você reencarnou como o novo monarca, que todos se curvem ao senhor.***
    
-   
-   
-   
-   
-   
-   
-   
-   
    # ASSASSINO
 ***Inventario do assassino:***
 
@@ -110,12 +102,35 @@ adaga dupla
  
 A "Katana Rios de Sangue" é uma lâmina lendária de aço negro curvada, cujos entalhes parecem pulsar como rios de sangue vivo. A empunhadura, envolta em couro escuro, concede poder e controle absoluto a seu portador. Esta katana é temida não apenas por sua história de batalhas épicas, mas também pela aura de poder e mortalidade que envolve aqueles que a empunham com destreza incomparável.
 
+# Configuração do Banco de Dados
+***Execute o seguinte script SQL para criar o banco de dados e a tabela necessária:***
 
+```sql
 
+-- Criar a tabela personagens
+create table personagens (
+id int auto_increment primary KEY,
+nome varchar(255) not null,
+classe varchar(255) not null);
+select * from personagens;
 
+-- Criar o banco de dados
+create database RPG;
 
- 
+-- Criar a tabela de itens especiais
+create table itens_Especiais(
+id int auto_increment primary KEY,itens_especiais
+personagem_id int,
+item varchar(255),
+foreign key ( personagem_id) references personagens (id));
+```
 
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
+## Licença
+Este projeto está licenciado sob a MIT License.
 
-
+## Contato
+Autor: Daniel dos Santos Garcia
+Email: danieldossantosgarcia934@gmail.com
